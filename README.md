@@ -16,15 +16,15 @@ To run and interact with this program, you can use Remix, an online Solidity Int
 
 3. Save the file with a .sol extension (e.g., ethproof.sol).
 
-4. Copy and paste the provided Solidity code in the link https://github.com/rolamj/ETHAssessment/blob/main/MikiToken.sol and paste into the newly created file.
+4. Copy and paste the provided Solidity code in the link https://github.com/fhielashley/ethproofproject/blob/main/ethproof%20(1).sol and paste into the newly created file.
 
-5. Compile the code by clicking on the "Solidity Compiler" tab in the left-hand sidebar. Ensure that the "Compiler" option is set to "0.8.18" (or another compatible version), and then click on the "Compile MikiToken.sol" button.
+5. Compile the code by clicking on the "Solidity Compiler" tab in the left-hand sidebar. Ensure that the "Compiler" option is set to "0.8.18" (or another compatible version), and then click on the "Compile ethproof" button.
 
-6. Deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "MikiToken" contract from the dropdown menu and click on the "Deploy" button.
+6. Deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "ethproof" contract from the dropdown menu and click on the "Deploy" button.
 
 7. Interact with the contract by calling the 'mint' and 'burn' functions and reading the public variables (i.e., name, abbreviation, totalSupply, and balances of the token).
 
-   - To mint tokens: Click on the "MikiToken" contract in the left-hand sidebar, and then click on the down caret icon on the "mint" function button to input the required variables. Finally, click on the "transact" button to execute the minting function with the specified amount of Kaizen tokens.
+   - To mint tokens: Click on the "ethproof" contract in the left-hand sidebar, and then click on the down caret icon on the "mint" function button to input the required variables. Finally, click on the "transact" button to execute the minting function with the specified amount of Kaizen tokens.
 
    - To burn tokens: Repeat the process above for the 'burn' function.
 
@@ -32,8 +32,8 @@ To run and interact with this program, you can use Remix, an online Solidity Int
 
 ## Author
 
-- Michael John
-  - GitHub: [@rolamj](https://github.com/rolamj)
+- Fhiel Nanalig
+  - GitHub: [@fhielashley](https://github.com/fhielashley)
 
 ## License
 
